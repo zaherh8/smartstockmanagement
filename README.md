@@ -1,0 +1,2 @@
+# smartstockmanagement
+final year project
